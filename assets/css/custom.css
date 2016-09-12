@@ -28,6 +28,7 @@
 .list-{color: #fff !important;padding: 0;font-size: 18px;list-style: none;line-height: 26px !important;}
 .list-.ecomm {color: #6a6a6a !important;padding: 0;font-size: 18px;list-style: none;line-height: 26px !important;}
 .list-.ecomm .fa{color: #ff5722 !important;}
+.eq-ui-input-field label.active{color:#ff5722 !important;}
 .icon-static li{float: left;width: 50%;margin-bottom: 25px;}
 .icon-static li p{width: 150px;border: 1px solid #fff;height: 150px;margin: auto;text-align: center;border-radius: 50%;}
 .icon-static li p em{top: 35px !important;color: #fff;position: relative;font-size: 16px;font-style: normal !important;font-weight: 400;}
@@ -314,7 +315,7 @@ body #myModal .modal-header h4,body #myModal1 .modal-header h4,body #myModal2 .m
 }
 .header_bg .inquiry a {
     padding: 15px 75px !important;
-    background: #089fdc url('/img/responsive/e-commerce-bullet.png') no-repeat 12px center;
+    background: #ff5722 url('/img/responsive/e-commerce-bullet.png') no-repeat 12px center;
     font-weight: bold;
     text-shadow: none !important;
     border-radius: 0px;
@@ -573,7 +574,7 @@ body .botpage-suppport-funct .supp2 a img {
 }
 
 .responsive h2 {
-    color: #01c5ff;
+    color: #ff5722;
     margin-top: 0px !important;
     margin-bottom: 20px;
     font-size: 24px !important;
@@ -803,16 +804,16 @@ a.btn-plus-feature {
 .accordion-btn a {
     display: block;
     font-size: 14px !important;
-    background: #45d4ff;
+    background: #ff5722;
     line-height: 40px;
-    border-bottom: 2px solid #379fbf;
+    border-bottom: 2px solid #e54f1f;
     text-transform: uppercase !Important;
     text-decoration: none !important;
 }
 .accordion-header h3 {
     margin: 5px 0;
     font-size: 30px;
-    background: #45d4ff;
+    background: #ff5722;
     font-weight: 400;
     line-height: 60px;
     color: #fff !important
@@ -827,7 +828,7 @@ a.btn-plus-feature {
 }
 .panel-heading .plus-icon {
     width: 18px;
-    border: 1px solid #45d4ff;
+    border: 1px solid #e54f1f;
     display: inline-block;
     font-style: normal;
     text-align: center;
@@ -842,12 +843,13 @@ a.btn-plus-feature {
     color: #fff;
     border: 0px !important;
     padding: 8px 15px;
-    background: #45d4ff;
+    background: #e54f1f;
     margin-top: 5px;
     font-size: 14px;
 }
 .pricing .panel-body a {
-    color: #333;
+    color: #fff;
+    font-weight:400;
 }
 /*PRICING MODAL*/
 
@@ -866,7 +868,7 @@ body #myModal .modal-header,
 body #myModal2 .modal-header {
     color: #fff;
     padding: 15px 30px;
-    background: #00b4ff;
+    background: #ff5722;
     text-align: center;
 }
 body #myModal label,
@@ -896,7 +898,7 @@ body #mc_embed_signup #mc_embed_signup_scroll .button {
     border: none;
     display: inline-block !important;
     padding: 22px 20px !important;
-    background: #00b4ff;
+    background: #ff5722;
     line-height: 0px;
     border-radius: 0px;
     color: #fff;
