@@ -142,7 +142,7 @@ body{padding-left:0px !important;}
 .main-menu .social-media ul li a{padding:3px 8px;color:#555 !Important;background:#191919}
 .main-menu .social-media ul li a:hover{color:#fff !Important;background:#191919}
 
-.header-cover{background: url(../img/home-slide2.jpg) top center;background-size:cover;}
+.header-cover{/*background: url(../img/home-slide2.jpg) top center*/;background-size:cover;}
 .cover-sub-text{margin-top:20px !important;}
 
 .form-div{background:#f6f6f6;padding:15px 30px 30px 30px;}
@@ -21486,8 +21486,8 @@ input.eq-ui-input[type=tel]:focus:not([readonly]),
 input.eq-ui-input[type=number]:focus:not([readonly]),
 input.eq-ui-input[type=search]:focus:not([readonly]),
 textarea.eq-ui-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #1E88E5;
-  box-shadow: 0 1px 0 0 #1E88E5;
+  border-bottom: 1px solid #ff5722;
+  box-shadow: 0 1px 0 0 #ff5722;
 }
 
 input.eq-ui-input[type=text]:focus:not([readonly]) + label,

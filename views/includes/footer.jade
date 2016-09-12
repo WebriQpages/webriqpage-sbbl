@@ -74,11 +74,14 @@ script(type="text/javascript", src="../js/jquery.expander.min.js")
 script(type="text/javascript", src="../js/cookies.js")
 script(type="text/javascript", src="../js/scrolld.js")
 script(type="text/javascript", src="../js/custom.js")
+script(type="text/javascript", src="../js/parallax.js")
+
+script(type='text/javascript').
+  $('.parallax-container').parallax({imageSrc: '../img/home-slide2.jpg'});
 
 script(src='https://cdn.slaask.com/chat.js')
 script(type="text/javascript").
   _slaask.init('a2185cf7997e55eb9484fc90fe78066a');
-
 
 if _path == "/recent-blog.html"
   script(type='text/javascript').
