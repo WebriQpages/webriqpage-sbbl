@@ -214,7 +214,7 @@ body #myModal .modal-header h4,body #myModal1 .modal-header h4,body #myModal2 .m
 #cookieChoiceDismiss {
     color: #fff;
     padding: 3px 15px;
-    background: #00B4FF;
+    background: #ff5722;
 }
 
 @media (min-width:992px) and (max-width:1200px){
