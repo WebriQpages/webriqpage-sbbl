@@ -22,6 +22,7 @@
 .btn-learn {margin: 5px 0 15px 0;}
 .web-services{padding: 110px 0 !important; background: url(../img/webserv-bg1.jpg) top right;background-size: cover;}
 .web-services-commerce{padding: 110px 0px 130px !important;background:url('../img/arrow-down-webserv.png')no-repeat center top;}
+.web-services-commerce .col-md-6 {text-align:left;}
 #web-ecomm-bg {background: #f2f2f2 url(../img/webserv-pic1.jpg) no-repeat -0px 50px;}
 #web-ecomm-bg img {display: none;}
 .header-cover {text-align:center;}
