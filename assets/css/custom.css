@@ -4,7 +4,7 @@
 
 /*Home Page*/
 .main-container {background:#fff !important;}
-.canvas-slid .header-cover{background:url(http://localhost:1111/img/home-slide2.jpg) 100% }
+.canvas-slid .header-cover{background:url(../img/home-slide2.jpg) 100% !important }
 .trends{padding:55px 0;background:#fff !important;}
 .trends-bottom p{position: relative !important;}
 .boxes{padding: 15px 0}
