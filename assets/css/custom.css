@@ -984,6 +984,7 @@ body #mc_embed_signup #mc_embed_signup_scroll .button {
     #our-approach img{display:block;width:80%;margin:auto;}
     #our-approach {background:none;}
     .portfolio #port-hover{padding:65px 0px;}
+    .header-menu img{width:150px;margin-top:-4px}
 }
 @media only screen and (max-width: 768px) {
     .general.custom .main-container {
@@ -1152,6 +1153,7 @@ body #mc_embed_signup #mc_embed_signup_scroll .button {
     body .button-down .top img {
         width: 20% !important;
     }
+    .header-menu img{width:120px;margin-top:5px;position:absolute;}
 }
 }
 /*PRICING RESPONSIVE*/
