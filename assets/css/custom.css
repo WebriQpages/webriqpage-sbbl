@@ -109,7 +109,7 @@ a.top:hover{background: url(../img/top.png) no-repeat bottom center;transition-d
 .webfactories_presentation ul>li .fa {margin-right: 5px;}
 #copyright{background: #ff5722;padding: 30px 0 15px 0;}
 #copyright p,#copyright a,.layout-footer p,.layout-footer p a{color:#fff !important;}
-#copyright a:hover,.layout-footer p a:hover{color:#ff5722 !important;}
+#copyright a:hover,.layout-footer p a:hover{color:#ffffff !important;}
 
 /* Modal */
 body .splash-page .modal-content
